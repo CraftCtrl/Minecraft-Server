@@ -1,1 +1,7 @@
 
+# Ignore server data
+data/
+
+# Ignore server logs
+logs/
+
