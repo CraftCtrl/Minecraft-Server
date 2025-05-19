@@ -5,3 +5,14 @@ data/
 # Ignore server logs
 logs/
 
+# Ignore server configuration files
+config/
+
+# Ignore server cache files
+cache/
+
+# Ignore server temporary files
+tmp/
+
+# Ignore server backup files
+backup/
